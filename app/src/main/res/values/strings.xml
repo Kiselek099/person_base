@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PersonBase</string>
+    <string name="getData">Получить данные</string>
+</resources>
